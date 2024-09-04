@@ -1,0 +1,49 @@
+{
+  "products" :[
+  {
+  
+  "id": 1,
+  "title": "REACT",
+  "description": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto",
+  "price" : 100 ,
+  "image" :"/images/images (3).jpeg",
+  "registration" : true
+  },
+  {
+  
+  "id": 2,
+  "title": "JAVA",
+  "description": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto",
+  "price" : 150,
+  "image" :"/images/images (3).jpeg",
+  "registration" : false
+  },
+  {
+  
+  "id": 3,
+  "title": "PHP",
+  "description": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto",
+  "price" : 200,
+  "image" :"/images/images (3).jpeg",
+  "registration" : true
+  },
+  {
+ 
+  "id": 4,
+  "title": "ANGULAR",
+  "description": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto",
+  "price" : 250,
+  "image" :"/images/images (3).jpeg",
+  "registration" : false
+  },
+  {
+  
+  "id": 5,
+  "title": "UX/UI",
+  "description": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto",
+  "price" : 50,
+  "image" :"/images/images (3).jpeg",
+  "registration" : true
+  }
+
+  ]}
